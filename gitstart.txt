@@ -1,0 +1,16 @@
+C:\Users\yulgon>cd C:\Users\yulgon\Desktop\test
+
+C:\Users\yulgon\Desktop\test>git clone https://github.com/kyulgon/GitExample.git
+
+C:\Users\yulgon\Desktop\test>cd GitExample
+
+해당 폴더에서 파일 추가
+
+C:\Users\yulgon\Desktop\test\GitExample>git status
+
+C:\Users\yulgon\Desktop\test\GitExample>git add my_module.txt
+(C:\Users\yulgon\Desktop\test\GitExample>git add .)
+
+C:\Users\yulgon\Desktop\test\GitExample>git commit -m "Add my_module [Add]"
+
+C:\Users\yulgon\Desktop\test\GitExample>git push
