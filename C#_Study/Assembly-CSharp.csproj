@@ -63,19 +63,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Action_Func.cs" />
     <Compile Include="Assets\Arrangement_08.cs" />
     <Compile Include="Assets\Collection_09.cs" />
     <Compile Include="Assets\Conditional_06.cs" />
+    <Compile Include="Assets\Coroutine_21.cs" />
     <Compile Include="Assets\DataType_02.cs" />
     <Compile Include="Assets\Delegate_12.cs" />
     <Compile Include="Assets\Delegate_Test.cs" />
+    <Compile Include="Assets\ExceptionHandling.cs" />
     <Compile Include="Assets\Function_03.cs" />
     <Compile Include="Assets\Index_15.cs" />
     <Compile Include="Assets\indicator_04.cs" />
     <Compile Include="Assets\Inheritance_12.cs" />
     <Compile Include="Assets\Inheritance_Test.cs" />
+    <Compile Include="Assets\Interface_16.cs" />
+    <Compile Include="Assets\Lambda_18.cs" />
     <Compile Include="Assets\NameSpace_10.cs" />
     <Compile Include="Assets\operator_05.cs" />
+    <Compile Include="Assets\ParameterT_17.cs" />
     <Compile Include="Assets\Property_14.cs" />
     <Compile Include="Assets\Property_Test.cs" />
     <Compile Include="Assets\Repetitive_07.cs" />
